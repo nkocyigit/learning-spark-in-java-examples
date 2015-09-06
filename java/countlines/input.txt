@@ -1,0 +1,16 @@
+this is
+the
+sample
+input
+file
+for
+counting
+lines
+of the
+given file
+sample
+spark
+should
+produce
+result of
+16
